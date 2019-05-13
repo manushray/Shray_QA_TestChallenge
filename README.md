@@ -2,10 +2,6 @@
 
 # The Test Cases & Bugs are present in "TestCase&Bugs.xlsx" also the Answer for Quesionnaire asked is present in "AnswerOfQuestionnaire.docx".
 
-# Steps for How to build and execute the solution/code
-
-I am using Selenium+JAVA+MAVEN+TESTNG+Log4j2.properties+ExtentReport+log4j2
-
 # Description About Code/Framework :
 
 I have created a partial Automation Framework comprise of (Selenium+ JAVA+ Page Object Model+ TestNG + log4j2).
@@ -20,6 +16,8 @@ As I have made my code dynamic from where you can change the parameter and data 
 No need to change anywhere in the code but if you want to change the test data mention in the code challenge then you can change the data in config.properties which is present in configuration package
 
 Total time which code will run : 34 sec
+
+# Steps for How to build and execute the solution/code
 
 # Steps to run from command line
 
